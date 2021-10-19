@@ -1,0 +1,21 @@
+
+[
+    {
+        "id": 1,
+    "name": "John Doe",
+    "company": "123 Designs",
+    "phone": "444-555-6666"
+    },
+    {
+        "id": 2,
+    "name": "Jeff Gaines",
+    "company": "Hello Productions",
+    "phone": "111-222-3333"
+    },
+    {
+        "id": 3,
+    "name": "Mark Cho",
+    "company": "Traversy Media",
+    "phone": "333-888-5555"
+    }
+]
